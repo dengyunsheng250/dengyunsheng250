@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-# 基本信息 Basic Information
-中国科学技术大学硕士在读
 
 # 技能概述 Skills
 
@@ -13,7 +11,7 @@
 
 # 相关网站 Related Websites
 
-**GitHub**：https://github.com/bennyhuo
+**GitHub**：https://github.com/dengyunsheng250
 
 
 <!--
