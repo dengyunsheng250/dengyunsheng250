@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# Hello :)
 
 
 # 技能概述 Skills
@@ -13,6 +11,8 @@
 
 **GitHub**：https://github.com/dengyunsheng250
 
+
+I am also an avid Rustacean!
 
 <!--
 **dengyunsheng250/dengyunsheng250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
